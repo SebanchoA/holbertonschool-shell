@@ -1,2 +1,2 @@
 #!/bin/bash
-rm src[~]* -l /*
+rm -v src[~]*  /*
