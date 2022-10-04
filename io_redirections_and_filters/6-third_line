@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -n 6 iacta
+tr 3 iacta
