@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | uniq -u | head
+ls -ltp | uniq -u | head
