@@ -1,2 +1,2 @@
 #!/bin/bash
-grep | tale -n 1 iacta | head -n 1
+echo tale -n 1 > iacta
