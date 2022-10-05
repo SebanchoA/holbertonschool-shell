@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tale -n 1 > iacta
+echo tale -n 1 iacta >> iacta
