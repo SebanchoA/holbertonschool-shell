@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -lt . | head
+ls -tp | head
