@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltp . | uniq -u | head
+cat | sort | uniq -c 
