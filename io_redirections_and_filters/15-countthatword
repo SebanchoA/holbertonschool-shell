@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n "bin"
+grep -e "bin" | cat -b
